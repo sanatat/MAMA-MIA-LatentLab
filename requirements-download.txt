@@ -1,0 +1,3 @@
+# Optional Synapse data acquisition. Data remain outside the repository.
+synapseclient>=4.9,<5
+openpyxl>=3.1

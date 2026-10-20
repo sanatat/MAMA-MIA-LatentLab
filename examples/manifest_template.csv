@@ -1,0 +1,2 @@
+patient_id,cohort,pre_nifti,post_nifti,expert_mask_nifti,pcr
+ISPY1_SAMPLE,ISPY1,/YOUR/DATA/images/ISPY1_SAMPLE/ISPY1_SAMPLE_0000.nii.gz,/YOUR/DATA/images/ISPY1_SAMPLE/ISPY1_SAMPLE_0001.nii.gz,/YOUR/DATA/segmentations/expert/ISPY1_SAMPLE.nii.gz,

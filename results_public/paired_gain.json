@@ -1,0 +1,9 @@
+{
+  "mae_gain_raw_minus_both": -0.00019081250858591918,
+  "percentile_95_interval": [
+    -0.0022347608940258548,
+    0.0017865360145734874
+  ],
+  "bootstrap_iterations": 1000,
+  "interpretation": "Stratified paired patient bootstrap, conditional on these 4 sampled cohorts; repeated seeds averaged by patient."
+}
